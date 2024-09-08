@@ -36,12 +36,12 @@
     "items": [
       {
         "title": "Productos",
-        "description": "En La Pastisseria de Gusteau's, nos especializamos en deleitarte con la mejor repostería de la ciudad. Ofrecemos una variedad de productos deliciosos como milhojas crujientes, profiteroles delicados, mousse suave, brazos de reina y los exquisitos New York rolls.",
+        "description": "En La Pastisseria de Gusteau's, nos especializamos en deleitarte con la mejor repostería de la ciudad. Ofrecemos una variedad de productos deliciosos como milhojas crujientes, profiteroles delicados, mousse suave, brazos de reina, los exquisitos New York rolls, y muchos productos más en repostería.",
         "img": "/assets/images/2.png"
       },
       {
         "title": "Nuestra Promesa",
-        "description": "Cada creación es una obra de amor, elaborada con los ingredientes más frescos y con técnicas tradicionales que resaltan el verdadero sabor de la repostería. Visítanos y descubre cómo el amor se convierte en postre.",
+        "description": "Cada creación es una obra de amor, elaborada con los ingredientes más frescos y con técnicas tradicionales que resaltan el verdadero sabor de la repostería. Agenda tu pedido y descubre cómo el amor se convierte en postre.",
         "img": "/assets/images/3.png"
       }
     ]
@@ -53,7 +53,7 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 311 8500150",
         "icon": "/assets/images/phone.png"
       },
       {
@@ -63,12 +63,12 @@
       },
       {
         "name": "Instagram",
-        "description": "@MiNegocio",
+        "description": "@LA_PASTISSER",
         "icon": "/assets/images/insta.png"
       },
       {
         "name": "Facebook",
-        "description": "Mi Negocio",
+        "description": "LA PASTISSERIA DEGUSTEAU",
         "icon": "/assets/images/facebook.jpg"
       }
     ]
