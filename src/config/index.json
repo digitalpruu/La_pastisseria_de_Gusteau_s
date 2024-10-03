@@ -70,6 +70,12 @@
         "name": "Facebook",
         "description": "LA PASTISSERIA DEGUSTEAU",
         "icon": "/assets/images/facebook.jpg"
+      },
+
+      {
+        "name": "Tiktok",
+        "description": "@lapastisseriadegu",
+        "icon": "/assets/images/tiktok.png"
       }
     ]
   },
