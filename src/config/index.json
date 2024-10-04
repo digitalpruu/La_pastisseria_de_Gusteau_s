@@ -59,7 +59,8 @@
       {
         "name": "Facebook",
         "description": "LA PASTISSERIA DEGUSTEAU",
-        "icon": "/assets/images/facebook.jpg"
+        "icon": "/assets/images/facebook.jpg",
+        "url":"https://www.facebook.com/profile.php?id=100090165710181&mibextid=ZbWKwL"
       },
       {
         "name": "Instagram",
@@ -70,7 +71,7 @@
         "name": "Tiktok",
         "description": "@lapastisseriadegu",
         "icon": "/assets/images/tiktok.png",
-        "url":""
+        "url":"https://www.tiktok.com/@lapastisseriadegu?_t=8q6y0EK18tR&_r=1 F"
       }
     ]
   },
